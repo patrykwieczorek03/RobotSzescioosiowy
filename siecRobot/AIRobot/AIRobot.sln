@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AIRobot", "AIRobot.pyproj", "{8C9EC110-F466-4C98-BAAF-4BD1C58EC8BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C9EC110-F466-4C98-BAAF-4BD1C58EC8BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C9EC110-F466-4C98-BAAF-4BD1C58EC8BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D14F5391-2CED-4813-9FCE-0D23945DE96F}
+	EndGlobalSection
+EndGlobal
